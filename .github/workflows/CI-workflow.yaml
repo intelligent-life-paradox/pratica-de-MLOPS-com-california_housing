@@ -22,4 +22,4 @@ jobs:
 
     - name: Install Docker Compose
       run: 
-        sudo curl -L "
+        sudo curl -L 
