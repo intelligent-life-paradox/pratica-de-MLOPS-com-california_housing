@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/e7e90bacbc9942ee81942a97a528d8c5/artifacts
+end_time: 1758050539263
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: e7e90bacbc9942ee81942a97a528d8c5
+run_name: invincible-gull-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050538704
+status: 3
+tags: []
+user_id: joaol

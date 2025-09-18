@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/305308830217309422/5e0ca94c3f2e49c7a0782b7faaf15336/artifacts
+end_time: 1758050360550
+entry_point_name: ''
+experiment_id: '305308830217309422'
+lifecycle_stage: active
+run_id: 5e0ca94c3f2e49c7a0782b7faaf15336
+run_name: enchanting-sloth-466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050357952
+status: 3
+tags: []
+user_id: joaol

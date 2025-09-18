@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/305308830217309422/faf60a1ed2034f2f97410a448a8da1dd/artifacts
+end_time: 1758050403148
+entry_point_name: ''
+experiment_id: '305308830217309422'
+lifecycle_stage: active
+run_id: faf60a1ed2034f2f97410a448a8da1dd
+run_name: awesome-doe-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050401231
+status: 3
+tags: []
+user_id: joaol

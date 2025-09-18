@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/90e56026f02843b9b16caf92ca4a14bd/artifacts
+end_time: 1758050555575
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: 90e56026f02843b9b16caf92ca4a14bd
+run_name: auspicious-moose-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050554884
+status: 3
+tags: []
+user_id: joaol

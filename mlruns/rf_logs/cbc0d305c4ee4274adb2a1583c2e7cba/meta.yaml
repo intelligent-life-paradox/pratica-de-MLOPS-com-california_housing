@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/305308830217309422/cbc0d305c4ee4274adb2a1583c2e7cba/artifacts
+end_time: 1758050471522
+entry_point_name: ''
+experiment_id: '305308830217309422'
+lifecycle_stage: active
+run_id: cbc0d305c4ee4274adb2a1583c2e7cba
+run_name: gregarious-mare-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050466430
+status: 3
+tags: []
+user_id: joaol

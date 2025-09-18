@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/bc37cf0308004ceebd8de39e05f0ea99/artifacts
+end_time: 1758050689205
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: bc37cf0308004ceebd8de39e05f0ea99
+run_name: welcoming-moth-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050688656
+status: 3
+tags: []
+user_id: joaol

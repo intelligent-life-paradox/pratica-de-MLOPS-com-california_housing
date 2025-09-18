@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/305308830217309422/ad4e3e08a0ee490b9535ca48ce26db4f/artifacts
+end_time: 1758050371238
+entry_point_name: ''
+experiment_id: '305308830217309422'
+lifecycle_stage: active
+run_id: ad4e3e08a0ee490b9535ca48ce26db4f
+run_name: thoughtful-midge-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050368471
+status: 3
+tags: []
+user_id: joaol

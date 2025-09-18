@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/305308830217309422/882238ba569b4855851a6e8a436ccc85/artifacts
+end_time: 1758050368453
+entry_point_name: ''
+experiment_id: '305308830217309422'
+lifecycle_stage: active
+run_id: 882238ba569b4855851a6e8a436ccc85
+run_name: judicious-elk-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050366634
+status: 3
+tags: []
+user_id: joaol

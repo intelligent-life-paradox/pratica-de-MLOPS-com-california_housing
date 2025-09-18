@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/882f4acce37147c5b84e7f74a2579112/artifacts
+end_time: 1758050547206
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: 882f4acce37147c5b84e7f74a2579112
+run_name: loud-croc-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050539278
+status: 3
+tags: []
+user_id: joaol

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/68f18553976747178e332d606c5a212c/artifacts
+end_time: 1758050554104
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: 68f18553976747178e332d606c5a212c
+run_name: skittish-loon-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050553183
+status: 3
+tags: []
+user_id: joaol

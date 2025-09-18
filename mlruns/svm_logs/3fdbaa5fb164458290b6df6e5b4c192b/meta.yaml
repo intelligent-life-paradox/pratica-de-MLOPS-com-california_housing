@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/3fdbaa5fb164458290b6df6e5b4c192b/artifacts
+end_time: 1758050533453
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: 3fdbaa5fb164458290b6df6e5b4c192b
+run_name: flawless-gnat-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050533038
+status: 3
+tags: []
+user_id: joaol

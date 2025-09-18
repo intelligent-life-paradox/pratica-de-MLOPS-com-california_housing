@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/099ddc654df64295b6f150fbd73d7140/artifacts
+end_time: 1758050570563
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: 099ddc654df64295b6f150fbd73d7140
+run_name: sincere-flea-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050567930
+status: 3
+tags: []
+user_id: joaol

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/305308830217309422/637d73b749524b3e876a893962efbcd5/artifacts
+end_time: 1758050408643
+entry_point_name: ''
+experiment_id: '305308830217309422'
+lifecycle_stage: active
+run_id: 637d73b749524b3e876a893962efbcd5
+run_name: indecisive-moose-289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050406985
+status: 3
+tags: []
+user_id: joaol

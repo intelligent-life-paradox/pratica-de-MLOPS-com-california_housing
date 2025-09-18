@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/ab861974fc524fcfb43de16408ddaa63/artifacts
+end_time: 1758050680196
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: ab861974fc524fcfb43de16408ddaa63
+run_name: magnificent-ant-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050679140
+status: 3
+tags: []
+user_id: joaol

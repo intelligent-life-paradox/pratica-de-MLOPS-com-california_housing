@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/65702a7e4642411d91796996247bd11c/artifacts
+end_time: 1758050567889
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: 65702a7e4642411d91796996247bd11c
+run_name: flawless-croc-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050566346
+status: 3
+tags: []
+user_id: joaol

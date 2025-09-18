@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/0ee9ee645bf14d28ab37469f96911e97/artifacts
+end_time: 1758050538690
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: 0ee9ee645bf14d28ab37469f96911e97
+run_name: wistful-hare-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050538214
+status: 3
+tags: []
+user_id: joaol

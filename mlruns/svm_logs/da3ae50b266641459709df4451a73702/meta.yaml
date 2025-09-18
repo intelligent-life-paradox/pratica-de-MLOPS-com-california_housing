@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/da3ae50b266641459709df4451a73702/artifacts
+end_time: 1758050687428
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: da3ae50b266641459709df4451a73702
+run_name: legendary-mouse-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050686800
+status: 3
+tags: []
+user_id: joaol

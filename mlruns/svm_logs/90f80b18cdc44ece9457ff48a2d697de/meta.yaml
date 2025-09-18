@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/90f80b18cdc44ece9457ff48a2d697de/artifacts
+end_time: 1758050669491
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: 90f80b18cdc44ece9457ff48a2d697de
+run_name: melodic-bird-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050573746
+status: 3
+tags: []
+user_id: joaol

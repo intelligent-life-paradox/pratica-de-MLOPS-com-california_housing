@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/305308830217309422/models/m-b7e52f7c295a45029a6a1b66c66eb68a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.3.2
+model_id: m-b7e52f7c295a45029a6a1b66c66eb68a
+model_size_bytes: 2734557
+model_uuid: m-b7e52f7c295a45029a6a1b66c66eb68a
+prompts: null
+run_id: 81d617a248fd4762839535a806458e11
+utc_time_created: '2025-09-16 19:19:54.026967'

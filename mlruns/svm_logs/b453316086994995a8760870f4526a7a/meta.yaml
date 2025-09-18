@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/b453316086994995a8760870f4526a7a/artifacts
+end_time: 1758050685987
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: b453316086994995a8760870f4526a7a
+run_name: smiling-snipe-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050685433
+status: 3
+tags: []
+user_id: joaol

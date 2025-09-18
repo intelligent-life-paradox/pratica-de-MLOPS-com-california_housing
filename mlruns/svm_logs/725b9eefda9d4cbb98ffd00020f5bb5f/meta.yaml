@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/725b9eefda9d4cbb98ffd00020f5bb5f/artifacts
+end_time: 1758050566302
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: 725b9eefda9d4cbb98ffd00020f5bb5f
+run_name: secretive-toad-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050564870
+status: 3
+tags: []
+user_id: joaol

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/305308830217309422/cab4e1dd2a2142e0b89d68c076492025/artifacts
+end_time: 1758050366614
+entry_point_name: ''
+experiment_id: '305308830217309422'
+lifecycle_stage: active
+run_id: cab4e1dd2a2142e0b89d68c076492025
+run_name: funny-lark-951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050363564
+status: 3
+tags: []
+user_id: joaol

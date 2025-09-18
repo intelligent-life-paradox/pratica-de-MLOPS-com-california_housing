@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/305308830217309422/b256a90d55284c63b3dea4a38381bfbc/artifacts
+end_time: 1758050518846
+entry_point_name: ''
+experiment_id: '305308830217309422'
+lifecycle_stage: active
+run_id: b256a90d55284c63b3dea4a38381bfbc
+run_name: receptive-fly-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050516370
+status: 3
+tags: []
+user_id: joaol

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/305308830217309422/models/m-0e8790a715b94c67974eda7805c0be1c/artifacts
+creation_timestamp: 1758050411680
+experiment_id: '305308830217309422'
+last_updated_timestamp: 1758050420140
+model_id: m-0e8790a715b94c67974eda7805c0be1c
+model_type: null
+name: model_pipeline
+source_run_id: f27af1f5a80c4d55a233c6fb693ebd06
+status: 2
+status_message: null

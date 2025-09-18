@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/305308830217309422/023953e5aab4402194d3ebc2a0f9debf/artifacts
+end_time: 1758050357941
+entry_point_name: ''
+experiment_id: '305308830217309422'
+lifecycle_stage: active
+run_id: 023953e5aab4402194d3ebc2a0f9debf
+run_name: invincible-ant-439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050356993
+status: 3
+tags: []
+user_id: joaol

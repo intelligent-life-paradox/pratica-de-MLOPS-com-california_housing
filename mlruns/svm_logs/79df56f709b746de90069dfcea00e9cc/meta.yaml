@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/79df56f709b746de90069dfcea00e9cc/artifacts
+end_time: 1758050548202
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: 79df56f709b746de90069dfcea00e9cc
+run_name: awesome-carp-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050547222
+status: 3
+tags: []
+user_id: joaol

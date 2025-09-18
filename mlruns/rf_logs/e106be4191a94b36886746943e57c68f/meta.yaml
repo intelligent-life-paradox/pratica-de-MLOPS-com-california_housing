@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/305308830217309422/e106be4191a94b36886746943e57c68f/artifacts
+end_time: 1758050519358
+entry_point_name: ''
+experiment_id: '305308830217309422'
+lifecycle_stage: active
+run_id: e106be4191a94b36886746943e57c68f
+run_name: luxuriant-pig-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050518858
+status: 3
+tags: []
+user_id: joaol

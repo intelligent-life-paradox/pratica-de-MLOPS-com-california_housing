@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/d972c44a470f48de989daaf0b3e3164c/artifacts
+end_time: 1758050535582
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: d972c44a470f48de989daaf0b3e3164c
+run_name: marvelous-wolf-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050534714
+status: 3
+tags: []
+user_id: joaol

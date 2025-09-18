@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/d198a01aa1894ff98f46867cbfeaa610/artifacts
+end_time: 1758050685411
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: d198a01aa1894ff98f46867cbfeaa610
+run_name: brawny-foal-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050684843
+status: 3
+tags: []
+user_id: joaol

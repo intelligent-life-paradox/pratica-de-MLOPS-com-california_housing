@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/305308830217309422/53b5c2b7090942cd8aabec0d8d81f6bc/artifacts
+end_time: 1758050492619
+entry_point_name: ''
+experiment_id: '305308830217309422'
+lifecycle_stage: active
+run_id: 53b5c2b7090942cd8aabec0d8d81f6bc
+run_name: stylish-smelt-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050490296
+status: 3
+tags: []
+user_id: joaol

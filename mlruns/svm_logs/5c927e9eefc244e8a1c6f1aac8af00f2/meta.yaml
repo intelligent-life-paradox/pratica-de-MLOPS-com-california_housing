@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/5c927e9eefc244e8a1c6f1aac8af00f2/artifacts
+end_time: 1758050690699
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: 5c927e9eefc244e8a1c6f1aac8af00f2
+run_name: dapper-bass-939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050689853
+status: 3
+tags: []
+user_id: joaol

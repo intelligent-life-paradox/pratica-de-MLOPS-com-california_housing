@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/f76124d7801f487a981c37cd815f7956/artifacts
+end_time: 1758050689836
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: f76124d7801f487a981c37cd815f7956
+run_name: brawny-hare-560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050689227
+status: 3
+tags: []
+user_id: joaol

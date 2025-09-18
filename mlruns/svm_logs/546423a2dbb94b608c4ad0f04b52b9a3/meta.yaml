@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/546423a2dbb94b608c4ad0f04b52b9a3/artifacts
+end_time: 1758050556203
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: 546423a2dbb94b608c4ad0f04b52b9a3
+run_name: intrigued-crane-261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050555592
+status: 3
+tags: []
+user_id: joaol

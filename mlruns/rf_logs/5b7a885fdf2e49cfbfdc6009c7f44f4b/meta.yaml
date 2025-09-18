@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/305308830217309422/5b7a885fdf2e49cfbfdc6009c7f44f4b/artifacts
+end_time: 1758050361908
+entry_point_name: ''
+experiment_id: '305308830217309422'
+lifecycle_stage: active
+run_id: 5b7a885fdf2e49cfbfdc6009c7f44f4b
+run_name: treasured-rook-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050361538
+status: 3
+tags: []
+user_id: joaol

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/305308830217309422/f27af1f5a80c4d55a233c6fb693ebd06/artifacts
+end_time: 1758050420198
+entry_point_name: ''
+experiment_id: '305308830217309422'
+lifecycle_stage: active
+run_id: f27af1f5a80c4d55a233c6fb693ebd06
+run_name: loud-dog-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050408655
+status: 3
+tags: []
+user_id: joaol

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/8dcfa829a2004b4b9f059020756919ff/artifacts
+end_time: 1758050561495
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: 8dcfa829a2004b4b9f059020756919ff
+run_name: useful-mouse-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050560152
+status: 3
+tags: []
+user_id: joaol

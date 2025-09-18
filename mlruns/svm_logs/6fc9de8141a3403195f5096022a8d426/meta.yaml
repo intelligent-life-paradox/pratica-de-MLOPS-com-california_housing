@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/6fc9de8141a3403195f5096022a8d426/artifacts
+end_time: 1758050682374
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: 6fc9de8141a3403195f5096022a8d426
+run_name: righteous-bat-845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050681758
+status: 3
+tags: []
+user_id: joaol

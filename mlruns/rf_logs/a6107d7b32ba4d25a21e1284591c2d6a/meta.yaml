@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/305308830217309422/a6107d7b32ba4d25a21e1284591c2d6a/artifacts
+end_time: 1758050515274
+entry_point_name: ''
+experiment_id: '305308830217309422'
+lifecycle_stage: active
+run_id: a6107d7b32ba4d25a21e1284591c2d6a
+run_name: sincere-stoat-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050514436
+status: 3
+tags: []
+user_id: joaol

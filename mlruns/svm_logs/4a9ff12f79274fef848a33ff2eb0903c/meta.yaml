@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/4a9ff12f79274fef848a33ff2eb0903c/artifacts
+end_time: 1758050538200
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: 4a9ff12f79274fef848a33ff2eb0903c
+run_name: traveling-ox-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050536896
+status: 3
+tags: []
+user_id: joaol

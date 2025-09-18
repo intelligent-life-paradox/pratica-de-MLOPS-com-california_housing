@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joaol/Downloads/ama_lista_05/mlruns/955729026594661662/f20e3bf129bb479abd5384688fccfc8c/artifacts
+end_time: 1758050549998
+entry_point_name: ''
+experiment_id: '955729026594661662'
+lifecycle_stage: active
+run_id: f20e3bf129bb479abd5384688fccfc8c
+run_name: placid-lynx-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758050548220
+status: 3
+tags: []
+user_id: joaol
