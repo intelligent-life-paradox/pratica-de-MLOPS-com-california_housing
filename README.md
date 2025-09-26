@@ -4,4 +4,4 @@ Passos faltantes para o término do projeto:
   - Fazer orquestração dos cointainers via kubernetz
 
 
-ps: Este projeto é baseado numa lista da cadeira de Machine Learning pela Universidade Federal do Ceará
+ps: Este projeto é baseado numa lista da cadeira de Machine Learning pela Universidade Federal do Ceará. De todo modo, logo terminarei isso aqui e colocarei um README melhor :) 
